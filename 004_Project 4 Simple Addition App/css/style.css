@@ -1,0 +1,20 @@
+body {
+    background-color: #4d91e2;
+}
+
+#wrapper {
+    width: 750px;
+    height: 350px;
+    background-color: #ffff00;
+    margin-top: 120px;
+    margin-left: 220px;
+}
+
+#btn {
+    background-color: #ff0000;
+    color: #fff;
+    padding: 12px;
+    border-style: none;
+    font-weight: bold;
+    width: 100px;
+}
